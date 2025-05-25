@@ -1,0 +1,74 @@
+{
+  "plats": [
+    {
+      "id": 1,
+      "titre": "California Roll",
+      "image": "/images/california-roll.jpg",
+      "descriptif": "Rouleau de sushi avec du crabe, avocat et concombre, enrobé de riz et graines de sésame",
+      "prix": 12.5
+    },
+    {
+      "id": 2,
+      "titre": "Sashimi de Saumon",
+      "image": "/images/sashimi-saumon.jpg",
+      "descriptif": "Tranches fines de saumon frais de première qualité",
+      "prix": 15.9
+    },
+    {
+      "id": 3,
+      "titre": "Dragon Roll",
+      "image": "/images/dragon-roll.jpg",
+      "descriptif": "Rouleau de tempura de crevette et concombre, garni d'avocat et d'anguille grillée",
+      "prix": 16.5
+    },
+    {
+      "id": 4,
+      "titre": "Nigiri Thon",
+      "image": "/images/nigiri-thon.jpg",
+      "descriptif": "Tranche de thon rouge sur un lit de riz vinaigré",
+      "prix": 8.9
+    },
+    {
+      "id": 5,
+      "titre": "Tempura Roll",
+      "image": "/images/tempura-roll.jpg",
+      "descriptif": "Rouleau de crevette tempura avec avocat et sauce spéciale",
+      "prix": 14.5
+    },
+    {
+      "id": 6,
+      "titre": "Rainbow Roll",
+      "image": "/images/rainbow-roll.jpg",
+      "descriptif": "California roll recouvert de différents poissons et fruits de mer",
+      "prix": 17.9
+    },
+    {
+      "id": 7,
+      "titre": "Maki Concombre",
+      "image": "/images/maki-concombre.jpg",
+      "descriptif": "Rouleau simple avec concombre frais et sésame",
+      "prix": 6.5
+    },
+    {
+      "id": 8,
+      "titre": "Chirashi",
+      "image": "/images/chirashi.jpg",
+      "descriptif": "Bol de riz vinaigré garni de sashimi variés et légumes",
+      "prix": 19.9
+    },
+    {
+      "id": 9,
+      "titre": "Spicy Tuna Roll",
+      "image": "/images/spicy-tuna.jpg",
+      "descriptif": "Rouleau de thon épicé avec avocat et oignon vert",
+      "prix": 13.5
+    },
+    {
+      "id": 10,
+      "titre": "Plateau Découverte",
+      "image": "/images/plateau-decouverte.jpg",
+      "descriptif": "Assortiment de 12 pièces : nigiri, maki et california roll",
+      "prix": 24.9
+    }
+  ]
+}
